@@ -14,3 +14,9 @@ void setXY(string a, string b) {
     x = y;
     y = b;
 }
+//menampilkan nilai
+void display() {
+cout << "x = " << x << endl;
+cout << "x = " << x << endl;
+}
+};
