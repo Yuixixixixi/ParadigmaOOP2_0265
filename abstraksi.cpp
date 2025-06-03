@@ -20,3 +20,11 @@ cout << "x = " << x << endl;
 cout << "x = " << x << endl;
 }
 };
+
+int main () {
+    AbstraksiKlas ak;
+    ak.setXY("Yogyakarta",  "Kampus");
+    ak.display();
+
+    return 0;
+}
